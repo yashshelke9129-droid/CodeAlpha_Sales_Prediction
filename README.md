@@ -1,2 +1,20 @@
-# CodeAlpha_Sales_Prediction
-Machine Learning project for predicting sales using advertising budget data and Linear Regression.
+# Sales Prediction using Machine Learning
+
+This project predicts product sales using advertising budget data and Machine Learning.
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+## Features
+- Data preprocessing
+- Sales prediction
+- Data visualization
+
+## Machine Learning Algorithm
+Linear Regression
+
+## Author
+Yash Shelke
